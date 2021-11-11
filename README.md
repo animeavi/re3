@@ -101,7 +101,7 @@ Clone the repository with `git clone --recursive https://github.com/GTAmodding/r
 
 <details><summary>Linux Premake</summary>
 
-For Linux using premake, proceed: [Building on Linux](https://github.com/GTAmodding/re3/wiki/Building-on-Linux)
+For Linux using premake, proceed: [Building on Linux](https://github.com/animeavi/re3/wiki/Building-on-Linux)
 
 </details>
 
